@@ -1,0 +1,27 @@
+* {
+  font-family: "poppins", sans-serif;
+}
+.banner {
+  background-image: url(/portfolioproject/slide.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 0px;
+}
+.contactform {
+  width: 100%;
+}
+
+.ctnbtn {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 2px;
+  padding-right: 20px;
+}
+.img-fluid {
+  justify-content: space-between;
+
+  margin-left: 30%;
+  background-size: cover;
+}
